@@ -10,4 +10,4 @@ function escapeSpecialChars(str){
 
 }
 
-const a = 1;
+console.log("index:loaded");
